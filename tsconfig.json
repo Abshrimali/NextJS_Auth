@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "src/app/api/user/signup/route.js", "src/app/api/user/login/route.js"  ],
+, "src/app/api/user/signup/route.ts", "src/app/api/user/login/route.js"  ],
   "exclude": ["node_modules"]
 }
