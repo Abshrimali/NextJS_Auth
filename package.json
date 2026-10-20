@@ -12,6 +12,7 @@
     "dotenv": "^18.0.8",
     "mongoose": "^9.11.2",
     "next": "16.4.2",
+    "nodemailer": "^10.1.7",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
